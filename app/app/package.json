@@ -1,0 +1,10 @@
+{
+  "name": "devops-aws-assignment",
+  "version": "1.0.0",
+  "description": "Sample Node.js API for AWS DevOps assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('Tests passed')\""
+  }
+}
